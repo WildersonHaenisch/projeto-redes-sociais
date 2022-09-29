@@ -42,15 +42,17 @@ section#telefone {
     width: 248px;
 
 
+
 }
 
 iframe#tela {
 
     position: relative;
-    top: 13px;
+    top: 11px;
     left: 13px;
     width: 223px;
-    height: 477px;
-    
+    height: 479px;
+    border-radius: 28px;
+
 
 }
