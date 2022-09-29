@@ -43,3 +43,14 @@ section#telefone {
 
 
 }
+
+iframe#tela {
+
+    position: relative;
+    top: 13px;
+    left: 13px;
+    width: 223px;
+    height: 477px;
+    
+
+}
